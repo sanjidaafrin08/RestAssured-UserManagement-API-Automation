@@ -1,6 +1,6 @@
 # RestAssured-UserManagement-API-Automation
 
-This project demonstrates basic API test automation using **Rest Assured** in Java. It covers common CRUD operations like user login, creation, search, and deletion — making it a perfect example for beginner-level QA automation enthusiasts or interview presentations.
+This project demonstrates basic API test automation using **Rest Assured** in Java. It covers common CRUD operations like user login, creation, search, and deletion .
 
 ---
 
@@ -24,11 +24,12 @@ This project demonstrates basic API test automation using **Rest Assured** in Ja
 
 ## 📂 Project Structure:
 ````
-  📁 src
+┗  📁 src
 ┗ 📁 test
 ┣ 📄 Setup.java // Environment setup & config loader
 ┣ 📄 UserController.java // API methods for login, create, search, delete
 ┗ 📄 TestRunners.java // TestNG test cases
+
 ````
 
 
